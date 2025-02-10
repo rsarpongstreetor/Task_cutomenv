@@ -8,6 +8,6 @@ defaults:
 max_steps: 100
 supports_continuous_actions: True
 supports_discrete_actions: True
-env_name: "AnFuelpriceEnv"
+
 
 
