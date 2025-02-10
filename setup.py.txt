@@ -6,9 +6,9 @@ from setuptools import setup, find_packages
        packages=find_packages(where=/content/BenchMARL/benchmarl/conf/task/customenv),
        package_data={'customenv': ['*.yaml']},  # Include YAML files
        install_requires=[
+		'pyyaml>=5.4.1'
            # Add any dependencies your package needs
            # Example: 'pyyaml>=5.4.1'
-		
-	"pyyaml"
+			
        ],
    )
