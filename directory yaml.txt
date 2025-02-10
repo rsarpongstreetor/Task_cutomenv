@@ -1,0 +1,5 @@
+/content/BenchMARL/benchmarl/conf/task/
+   └── customenv
+       ├── __init__.py
+       ├── task_1.yaml
+       └── task_2.yaml  # Your YAML files
