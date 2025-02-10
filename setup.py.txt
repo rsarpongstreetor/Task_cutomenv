@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
    setup(
-       name='taskcustomenv',
+       name='customenv',
        version='0.1.0',  # Choose your version number
        packages=find_packages(),
        package_data={'customenv': ['*.yaml']},  # Include YAML files
