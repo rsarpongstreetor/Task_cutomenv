@@ -1,4 +1,4 @@
-/content/BenchMARL/benchmarl/conf/task/customenv/
+/content/BenchMARL/benchmarl/conf/task
    ├── task_1.yaml
    ├── task_2.yaml
    └── __init__.py
