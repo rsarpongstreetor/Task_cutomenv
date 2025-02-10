@@ -1,12 +1,13 @@
 from setuptools import setup, find_packages
 
    setup(
-       name='customenv',
+       name='taskcustomenv',
        version='0.1.0',  # Choose your version number
        packages=find_packages(),
        package_data={'customenv': ['*.yaml']},  # Include YAML files
        install_requires=[
 		'pyyaml>=5.4.1'
+ 		'benchmarl'
            # Add any dependencies your package needs
            # Example: 'pyyaml>=5.4.1'
 			
